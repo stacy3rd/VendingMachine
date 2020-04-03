@@ -15,7 +15,6 @@ public:
 
 private:
 	Model model;
-
 	View view;
 	Controller* controller;
 };
